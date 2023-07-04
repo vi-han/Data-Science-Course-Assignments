@@ -1,2 +1,4 @@
 # Data-Science-Course-Assignments
-Assignments for IBM Data Science Professional Certification
+__Assignments for IBM Data Science Professional Certification__
+<br><br>
+This is a repository for all my course assignemnts.
